@@ -1,0 +1,3 @@
+[submodule "client-side"]
+	path = client-side
+	url = git@github.com:JR-Camacho/clasificator_client_side.git
